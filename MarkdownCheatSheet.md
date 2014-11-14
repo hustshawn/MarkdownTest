@@ -1,5 +1,5 @@
-Sample Markdown Cheat Sheet
-=========================== 
+` Sample ` Markdown Cheat Sheet
+===========================
 
 This is a sample markdown file to help you write Markdown quickly :)
 
@@ -127,7 +127,7 @@ async_call('/path/to/api', function(json) {
 
 The Github Markdown also brings some [nice Emoji support][emoji] : :+1: :heart: :beer:
 
-[^note-id]: This is the text of the note. 
+[^note-id]: This is the text of the note.
 
 ## Parsers and Extensions
 
@@ -228,7 +228,7 @@ The default extensions are:
 
 * `footnotes` -- [Footnotes]
 * `toc` -- [Table of Contents]
-* `fenced_code` -- [Fenced Code Blocks] 
+* `fenced_code` -- [Fenced Code Blocks]
 * `tables` -- [Tables]
 
 Use the `default` keyword, to select them all.
@@ -252,21 +252,21 @@ but is currently **not** available in *Markdown2*.
 The syntax was adopted from the [php markdown project](http://michelf.ca/projects/php-markdown/extra/#table),
 and is also used in github flavoured markdown.
 
-| Year | Temperature (low) | Temperature (high) |  
-| ---- | ----------------- | -------------------|  
-| 1900 |               -10 |                 25 |  
-| 1910 |               -15 |                 30 |  
-| 1920 |               -10 |                 32 |  
+| Year | Temperature (low) | Temperature (high) |
+| ---- | ----------------- | -------------------|
+| 1900 |               -10 |                 25 |
+| 1910 |               -15 |                 30 |
+| 1920 |               -10 |                 32 |
 
 
 ### Wiki Tables
 
 If you are using *Markdown2* with the `wiki-tables` extra activated you should see a table below:
 
-|| *Year* || *Temperature (low)* || *Temperature (high)* ||  
-||   1900 ||                 -10 ||                   25 ||  
-||   1910 ||                 -15 ||                   30 ||  
-||   1920 ||                 -10 ||                   32 ||  
+|| *Year* || *Temperature (low)* || *Temperature (high)* ||
+||   1900 ||                 -10 ||                   25 ||
+||   1910 ||                 -15 ||                   30 ||
+||   1920 ||                 -10 ||                   32 ||
 
 
 ### Definition Lists
@@ -274,7 +274,7 @@ If you are using *Markdown2* with the `wiki-tables` extra activated you should s
 This example requires *Python Markdown*'s `def_list` extension.
 
 Apple
-:   Pomaceous fruit of plants of the genus Malus in 
+:   Pomaceous fruit of plants of the genus Malus in
     the family Rosaceae.
 
 Orange
