@@ -1,4 +1,4 @@
-` Sample ` Markdown Cheat Sheet
+Sample Markdown Cheat Sheet
 =========================== 
 
 This is a sample markdown file to help you write Markdown quickly :)
